@@ -21,4 +21,4 @@ Omnifood is a single page website built as final project of the course and it co
 ## Screenshot
 
 <a href="https://" target="_blank">
-<img src="./screenshoot.png" style="max-width:100%; "></a>
+<img src="./screenshoot.png" style="max-width:100%;"></a>
